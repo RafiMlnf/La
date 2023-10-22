@@ -18,7 +18,6 @@
 <body>
     <div class="container-about">
 
-        <!-- Header -->
         <header class="header-about">
             <h1>&lt;h1&gt; <span class="blue-text">About Me</span> &lt;/h1&gt;</h1>
         </header>
@@ -35,7 +34,6 @@
         </section>
 
         <section id="main-about">
-            <!-- Tambahkan konten About sesuai kebutuhan -->
             <div class="box-about">
                 <h3>Rafi Maulana Firdaus</h3>
                 <p> Let me share a little story. I have a deep interest in digital visuals, and I thoroughly enjoy exploring my imagination and creativity. 

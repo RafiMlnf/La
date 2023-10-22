@@ -224,7 +224,7 @@ box img {
 }
 .nav-about a {
     padding: 15px 25px;
-    color: #ffffff;
+    color: #7c7c7c;
     font-size: 17px;
 }
 
@@ -237,17 +237,19 @@ box img {
 /* ---------------------- header ----------------------*/
 .header-about {
     background-color: #131313;
-    height: auto;
+    height: 7vh;
     font-family: 'Mermaid';
     padding-left: 60px;
 }
 
 .header-about h1 {
-    color: #3a80a8;
+    color: #2e2e2e;
+    font-size: 25px;
     
 }
 /* ---------------------- header ----------------------*/
 
+/* ---------------------- box ----------------------*/
 .box-about {
     background-color: #131313;
     padding: 100px 0;
@@ -276,12 +278,14 @@ box img {
     font-size: 20px;
     text-align: justify;
 }
-
-
-
+/* ---------------------- box ----------------------*/
 
 .image-about {
     width: 1343px;
     height: initial;
     display: block;
+}
+.blue-text {
+    color: #7c7c7c;
+    font-size: 35px;
 }
